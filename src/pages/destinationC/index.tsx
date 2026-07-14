@@ -1,7 +1,7 @@
 import Moon from '../../assets/image-moon.webp'
 import Nav from '../../components/nav'
 
-function DestinationA() {
+function DestinationC() {
 
   return (
 
@@ -32,7 +32,7 @@ function DestinationA() {
 
                     <div className='flex flex-col gap-5'>
                         
-                        <h1 className="text-white text-8xl bellefair">MOON</h1>
+                        <h1 className="text-white text-8xl bellefair">EUROPA</h1>
                         <p className="text-[#A6ABCA] barlow">See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.</p>
                     </div>
 
@@ -57,4 +57,4 @@ function DestinationA() {
   )
 }
 
-export default DestinationA
+export default DestinationC
