@@ -6,7 +6,7 @@ function DestinationD() {
   return (
 
     <>
-        <div className="min-h-screen bg-[#101320] relative">
+        <div className="min-h-screen destination relative">
 
             <Nav />
 

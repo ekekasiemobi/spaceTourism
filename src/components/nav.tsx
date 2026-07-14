@@ -17,7 +17,7 @@ function nav() {
                 
                 <li><Link className="text-white barlow" to="/crewA">02 CREW</Link></li>
 
-                <li><Link className="text-white barlow" to="">03 TECHNOLOGY</Link></li>
+                <li><Link className="text-white barlow" to="/technologyA">03 TECHNOLOGY</Link></li>
 
             </ul>
         </nav>

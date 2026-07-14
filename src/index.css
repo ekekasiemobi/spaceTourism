@@ -11,6 +11,27 @@
   /* min-height: 100vh; */
 }
 
+.technology{
+  background-image: url(./assets/background-technology-desktop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* min-height: 100vh; */
+}
+
+.crew{
+  background-image: url(./assets/background-crew-desktop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* min-height: 100vh; */
+}
+
+.destination{
+  background-image: url(./assets/background-destination-desktop.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* min-height: 100vh; */
+}
+
 .barlow {
   font-family: "Barlow Condensed", sans-serif;
 

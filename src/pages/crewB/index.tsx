@@ -1,7 +1,7 @@
-import Crew from '../../assets/image-douglas-hurley.png'
+import Crew from '../../assets/image-mark-shuttleworth.webp'
 import Nav from '../../components/nav'
 
-function CrewA() {
+function CrewB() {
 
   return (
 
@@ -28,7 +28,7 @@ function CrewA() {
                 </div>
 
                 <div className='w-[40vw]'>
-                    <img className='w-95' src={Crew} alt="" />
+                    <img className='w-90' src={Crew} alt="" />
                 </div>
 
             </div>
@@ -47,4 +47,4 @@ function CrewA() {
   )
 }
 
-export default CrewA
+export default CrewB
